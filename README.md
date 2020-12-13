@@ -1,11 +1,17 @@
-<h1 align="center">Hi 👋, I'm Dhia</h1>
-<h3 align="center">A Passionate Data Scientist and a Programming Enthusiast</h3>
+<h1 align="center">Hi 👋, I'm Dhia Hmila</h1>
+<h3 align="center">A passionate Data Scientist and a programming enthusiast</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hmiladhia&label=Profile%20views&color=0e75b6&style=flat" alt="hmiladhia" /> </p>
 
 - 🔭 I’m currently working on a **Fraud, Waste, and Abuse detection Tool**
 
-- 📝 I regularly write articles on [medium](https://dhiahmila.medium.com/)
+- 📝 I regularly write articles on [Medium](https://dhiahmila.medium.com/)
 
 - 📄 Know about my experiences on my [LinkedIn Profile](https://www.linkedin.com/in/dhia-hmila/)
+
+### Latest Medium Articles
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
