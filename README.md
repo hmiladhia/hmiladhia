@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dhia</h1>
-<h3 align="center">A passionate Data Scientist and a programming enthusiast</h3>
+<h3 align="center">A Passionate Data Scientist and a Programming Enthusiast</h3>
 
 - 🔭 I’m currently working on a **Fraud, Waste, and Abuse detection Tool**
 
