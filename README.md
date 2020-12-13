@@ -11,10 +11,10 @@
 
 ### Latest Medium Articles
 <!-- BLOG-POST-LIST:START -->
+- [How I Built a Classification Model for Source Code Languages](https://towardsdatascience.com/classification-model-for-source-code-programming-languages-40d1ab7243c2?source=rss-d38873cbc5aa------2)
 - [How to Send Emails With Attachments Using Python](https://medium.com/better-programming/how-to-send-emails-with-attachments-using-python-dd37c4b6a7fd?source=rss-d38873cbc5aa------2)
 - [How to Handle Common Selenium Issues Using Python (Part 2)](https://medium.com/better-programming/how-to-handle-common-selenium-issues-using-python-part-2-db8d6f39ef06?source=rss-d38873cbc5aa------2)
 - [How to Handle Common Selenium Issues Using Python (Part 1)](https://medium.com/analytics-vidhya/how-to-handle-common-selenium-issues-using-python-part-1-bb38029c0a04?source=rss-d38873cbc5aa------2)
-- [What if Selenium Could Do a Better Job Than Your Travel Agency?](https://medium.com/analytics-vidhya/what-if-selenium-could-do-a-better-job-than-your-travel-agency-5e4e74de08b0?source=rss-d38873cbc5aa------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
