@@ -11,10 +11,10 @@
 
 ### Latest Medium Articles
 <!-- BLOG-POST-LIST:START -->
+- [What the Newly Released JupyterLab 3 Has to Offer](https://medium.com/python-in-plain-english/what-the-newly-released-jupyterlab-3-has-to-offer-a9a144d93046?source=rss-d38873cbc5aa------2)
 - [4 Scikit-Learn Tools Every Data Scientist Should Use](https://towardsdatascience.com/4-scikit-learn-tools-every-data-scientist-should-use-4ee942958d9e?source=rss-d38873cbc5aa------2)
 - [8 Tips to Write Cleaner Code](https://towardsdatascience.com/8-tips-to-write-cleaner-code-376f7232652c?source=rss-d38873cbc5aa------2)
 - [A Classification Model for Source Code Languages](https://towardsdatascience.com/classification-model-for-source-code-programming-languages-40d1ab7243c2?source=rss-d38873cbc5aa------2)
-- [How to Send Emails With Attachments Using Python](https://medium.com/better-programming/how-to-send-emails-with-attachments-using-python-dd37c4b6a7fd?source=rss-d38873cbc5aa------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
