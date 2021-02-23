@@ -11,10 +11,10 @@
 
 ### Latest Medium Articles
 <!-- BLOG-POST-LIST:START -->
+- [Do Women Really Need a Rigged Dice to Thrive in Tech Environments?](https://medium.com/@amal-hasni/do-women-really-need-a-rigged-dice-to-thrive-in-tech-environments-2f06c444332b?source=rss-d38873cbc5aa------2)
 - [Why You Should Switch to Piskle[arn] for Exporting Your Scikit-Learn Models](https://towardsdatascience.com/why-you-should-switch-to-piskle-for-exporting-your-scikit-learn-models-87028ad83ed?source=rss-d38873cbc5aa------2)
 - [What the Newly Released JupyterLab 3 Has to Offer](https://py.plainenglish.io/what-the-newly-released-jupyterlab-3-has-to-offer-a9a144d93046?source=rss-d38873cbc5aa------2)
 - [4 Scikit-Learn Tools Every Data Scientist Should Use](https://towardsdatascience.com/4-scikit-learn-tools-every-data-scientist-should-use-4ee942958d9e?source=rss-d38873cbc5aa------2)
-- [8 Tips to Write Cleaner Code](https://towardsdatascience.com/8-tips-to-write-cleaner-code-376f7232652c?source=rss-d38873cbc5aa------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
