@@ -11,10 +11,10 @@
 
 ### Latest Medium Articles
 <!-- BLOG-POST-LIST:START -->
+- [5 Hyperparameter Optimization Methods You Should Use](https://towardsdatascience.com/5-hyperparameter-optimization-methods-you-should-use-521e47d7feb0?source=rss-d38873cbc5aa------2)
 - [Do Women Really Need a Rigged Dice to Thrive in Tech Environments?](https://aninjusticemag.com/do-women-really-need-a-rigged-dice-to-thrive-in-tech-environments-2f06c444332b?source=rss-d38873cbc5aa------2)
 - [Why You Should Switch to Piskle[arn] for Exporting Your Scikit-Learn Models](https://towardsdatascience.com/why-you-should-switch-to-piskle-for-exporting-your-scikit-learn-models-87028ad83ed?source=rss-d38873cbc5aa------2)
 - [What the Newly Released JupyterLab 3 Has to Offer](https://python.plainenglish.io/what-the-newly-released-jupyterlab-3-has-to-offer-a9a144d93046?source=rss-d38873cbc5aa------2)
-- [4 Scikit-Learn Tools Every Data Scientist Should Use](https://towardsdatascience.com/4-scikit-learn-tools-every-data-scientist-should-use-4ee942958d9e?source=rss-d38873cbc5aa------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
